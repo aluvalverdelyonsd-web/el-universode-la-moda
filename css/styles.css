@@ -9,6 +9,22 @@ body {
   background-color: white;
 }
 
+/*inicio de header*/
+header{
+  background-color: #000;
+}
+#logos{
+display: flex;
+flex-direction: row;
+align-items: flex-end;
+justify-content: space-between;
+}
+
+#logo img{
+  width: 191px;
+}
+/*fin de header*/
+
 nav {
   display: flex;
   flex-wrap: wrap;
