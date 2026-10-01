@@ -5,8 +5,12 @@
 body {
   margin: 0;
   font-family: system-ui, sans-serif;
-  color: black;
-  background-color: white;
+  color: darkgoldenrod;
+  background-color: rgb(241, 228, 110);
+}
+h1{
+  text-align: center;/*alinea el texto en el centro*/
+font-family:35px;/*cambia el tamaño de la letra*/
 }
 
 /*inicio de header*/
