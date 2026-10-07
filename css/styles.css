@@ -141,4 +141,10 @@ padding: 5px;
     font-weight: bold;
     font-size: 1.5rem;
   }
+  .texto{
+    width: 80%;
+    margin: 0 auto;
+    text-align: justify;
+    background-color: aqua;
+  }
   
