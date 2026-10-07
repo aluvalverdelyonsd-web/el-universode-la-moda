@@ -72,7 +72,11 @@ section div{
       background-repeat: no-repeat;
       background-position: center;
       }
-
+ .texto{
+  background-color: beige;
+  width: 80%;
+  margin: 0 auto;
+ }
 /*fin main*/
 
 nav {
