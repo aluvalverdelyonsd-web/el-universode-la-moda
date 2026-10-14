@@ -110,26 +110,24 @@ nav a[aria-current='page'] {
 /*inicio del footer*/
 footer{
   background-color: #000;
-color: #d4d4d4;
+color: #ffe4e4;
 display: flex;
 flex-wrap: wrap;
 justify-content: space-evenly;
 }
- 
-
 #colegio{ 
 width: 33%;
 background-color: rgb(0, 0, 0);
 padding: 5px;
 }
 #colegio a {
-color: #aaa;
+color: #ffffff;
 }
 
 #alumno{
   width: 33%;
 background-color: yellow;
-color: #aaa;
+color: #ffffff;
 padding: 5px;
 }
 #alumno a{
