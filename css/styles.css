@@ -6,7 +6,7 @@ body {
   margin: 0;
   font-family: system-ui, sans-serif;
   color: black;
-  background-color: white;
+  background-color: lightblue;
 }
 
 p{
@@ -126,12 +126,12 @@ color: #ffffff;
 
 #alumno{
   width: 33%;
-background-color: yellow;
+background-color: rgb(0, 0, 0);
 color: #ffffff;
 padding: 5px;
 }
 #alumno a{
-  color: #555;
+  color: #fff9f9;
 }
 
 #sociales{
