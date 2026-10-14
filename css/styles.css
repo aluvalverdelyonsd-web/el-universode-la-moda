@@ -43,6 +43,10 @@ section{
   justify-content: center;
 }
 
+div{
+  width: fit-content;
+}
+
 section div{
   width: 33%;
   height: 350px;
